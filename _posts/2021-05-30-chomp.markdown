@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "chomp"
+date:   2021-05-30
+categories: chomp thoughts
+---
+
+feeling chomp
+
+might delete this later
